@@ -36,6 +36,7 @@ Go:
 Rust:
 - https://github.com/libp2p/rust-libp2p
 - https://github.com/paritytech/litep2p
+- https://github.com/web3infra-foundation/libp2p-rs
 
 JavaScript:
 - https://github.com/libp2p/js-libp2p
@@ -75,6 +76,12 @@ More: https://libp2p.io/implementations/
 - Sonr - https://github.com/di-dao/sonr
 - XDAGj - https://github.com/XDagger/xdagj
 - Pactus - https://github.com/pactus-project/pactus
+- Fuel - https://github.com/FuelLabs/fuel-core
+- Celestia - https://github.com/celestiaorg/celestia-node
+- Madara - https://github.com/keep-starknet-strange/madara
+- Avail - https://github.com/availproject/avail
+- Starcoin - https://github.com/starcoinorg/starcoin
+- Magi - https://github.com/a16z/magi
 
 ### Database
 
