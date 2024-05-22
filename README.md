@@ -82,6 +82,7 @@ More: https://libp2p.io/implementations/
 - Avail - https://github.com/availproject/avail
 - Starcoin - https://github.com/starcoinorg/starcoin
 - Magi - https://github.com/a16z/magi
+- Spacemesh - https://github.com/spacemeshos/go-spacemesh
 
 ### Database
 
