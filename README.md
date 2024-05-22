@@ -83,6 +83,7 @@ More: https://libp2p.io/implementations/
 - Starcoin - https://github.com/starcoinorg/starcoin
 - Magi - https://github.com/a16z/magi
 - Spacemesh - https://github.com/spacemeshos/go-spacemesh
+- Starknet - https://github.com/eqlabs/pathfinder
 
 ### Database
 
