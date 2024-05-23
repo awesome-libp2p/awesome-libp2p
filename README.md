@@ -68,7 +68,10 @@ More: https://libp2p.io/implementations/
 
 ### Blockchain
 
-- Filecoin - https://github.com/filecoin-project/lotus
+- Filecoin
+  - https://github.com/filecoin-project/lotus
+  - https://github.com/filecoin-project/venus
+  - https://github.com/ChainSafe/forest
 - Polkadot
   - https://github.com/paritytech/polkadot-sdk
   - https://github.com/smol-dot/smoldot
