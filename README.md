@@ -98,6 +98,7 @@ More: https://libp2p.io/implementations/
 ### Crawler
 
 - https://github.com/dennis-tra/nebula
+- https://github.com/probe-lab/parsec
 
 ### Messaging
 
