@@ -87,6 +87,8 @@ More: https://libp2p.io/implementations/
 - Magi - https://github.com/a16z/magi
 - Spacemesh - https://github.com/spacemeshos/go-spacemesh
 - Starknet - https://github.com/eqlabs/pathfinder
+- Optimism - https://github.com/ethereum-optimism/optimism
+- Mantle - https://github.com/mantlenetworkio/mantle-v2
 
 ### Database
 
@@ -106,7 +108,10 @@ More: https://libp2p.io/implementations/
 ### Messaging
 
 - https://github.com/berty/berty
-- https://github.com/waku-org
+- waku
+  - https://github.com/waku-org/nwaku
+  - https://github.com/waku-org/go-waku
+  - https://github.com/waku-org/js-waku
 
 ### VPN
 
