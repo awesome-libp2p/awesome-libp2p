@@ -117,6 +117,7 @@ More: https://libp2p.io/implementations/
 
 - https://github.com/mudler/edgevpn
 - https://github.com/alecbcs/hyprspace
+- https://github.com/nickjfree/goose
 
 ### Proxy
 
