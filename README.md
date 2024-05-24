@@ -118,6 +118,12 @@ More: https://libp2p.io/implementations/
 - https://github.com/mudler/edgevpn
 - https://github.com/alecbcs/hyprspace
 
+### Proxy
+
+- https://github.com/dvasanth/kadugu
+- https://github.com/p2pdao/libp2p-proxy
+- https://github.com/netwarps/p2p-proxy
+
 ## Contribute
 
 ![](./img/contribute.gif)
