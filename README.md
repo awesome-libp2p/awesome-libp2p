@@ -128,6 +128,7 @@ More: https://libp2p.io/implementations/
 ### Game
 
 - https://github.com/shlavik/digifall
+- https://github.com/chaitanyaprem/bingo-p2p
 
 ## Contribute
 
