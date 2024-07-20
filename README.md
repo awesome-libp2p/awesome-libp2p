@@ -89,6 +89,7 @@ More: https://libp2p.io/implementations/
 - Starknet - https://github.com/eqlabs/pathfinder
 - Optimism - https://github.com/ethereum-optimism/optimism
 - Mantle - https://github.com/mantlenetworkio/mantle-v2
+- Algorand - https://github.com/algorand/go-algorand
 
 ### Database
 
