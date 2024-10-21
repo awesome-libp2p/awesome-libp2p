@@ -47,6 +47,9 @@ Python:
 Kotlin:
 - https://github.com/libp2p/jvm-libp2p
 
+C#:
+- https://github.com/NethermindEth/dotnet-libp2p
+
 Nim:
 - https://github.com/vacp2p/nim-libp2p
 
