@@ -93,6 +93,7 @@ More: https://libp2p.io/implementations/
 - Optimism - https://github.com/ethereum-optimism/optimism
 - Mantle - https://github.com/mantlenetworkio/mantle-v2
 - Algorand - https://github.com/algorand/go-algorand
+- Mina - https://github.com/openmina/openmina
 
 ### Database
 
