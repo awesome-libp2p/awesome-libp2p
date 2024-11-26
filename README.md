@@ -61,6 +61,10 @@ C++:
 
 More: https://libp2p.io/implementations/
 
+## Project templates
+
+- create-libp2p-app - https://github.com/maschad/create-libp2p-app
+
 ## Projects powered by libp2p
 
 ### Storage
@@ -123,6 +127,7 @@ More: https://libp2p.io/implementations/
 - https://github.com/mudler/edgevpn
 - https://github.com/alecbcs/hyprspace
 - https://github.com/nickjfree/goose
+- https://github.com/SkyPierIO/skypier-vpn
 
 ### Proxy
 
