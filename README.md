@@ -63,7 +63,11 @@ More: https://libp2p.io/implementations/
 
 ## Project templates
 
-- create-libp2p-app - https://github.com/maschad/create-libp2p-app
+- https://github.com/maschad/create-libp2p-app
+
+## Developer tools
+
+- https://github.com/libp2p/js-libp2p-devtools
 
 ## Projects powered by libp2p
 
