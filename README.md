@@ -106,6 +106,8 @@ More: https://libp2p.io/implementations/
 - Mantle - https://github.com/mantlenetworkio/mantle-v2
 - Algorand - https://github.com/algorand/go-algorand
 - Mina - https://github.com/openmina/openmina
+- Autonomi - https://github.com/maidsafe/safe_network
+- Subspace - https://github.com/autonomys/subspace
 
 ### Database
 
