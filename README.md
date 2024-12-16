@@ -73,6 +73,10 @@ More: https://libp2p.io/implementations/
 
 - https://github.com/libp2p/js-libp2p-protocol-adventure
 
+## Frameworks
+
+- https://github.com/MetaPointTech/metapoint
+
 ## Projects powered by libp2p
 
 ### Storage
