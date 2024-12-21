@@ -115,6 +115,10 @@ More: https://libp2p.io/implementations/
 - Subspace - https://github.com/autonomys/subspace
 - THORChain - https://gitlab.com/thorchain/thornode
 
+### DNS
+
+- https://github.com/ipshipyard/p2p-forge
+
 ### Database
 
 - https://github.com/orbitdb/orbitdb
