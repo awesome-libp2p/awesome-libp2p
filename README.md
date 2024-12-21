@@ -112,6 +112,7 @@ More: https://libp2p.io/implementations/
 - Mina - https://github.com/openmina/openmina
 - Autonomi - https://github.com/maidsafe/safe_network
 - Subspace - https://github.com/autonomys/subspace
+- THORChain - https://gitlab.com/thorchain/thornode
 
 ### Database
 
