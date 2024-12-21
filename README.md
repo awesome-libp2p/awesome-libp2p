@@ -84,6 +84,7 @@ More: https://libp2p.io/implementations/
 - IPFS
   - https://github.com/ipfs/kubo
   - https://github.com/ipfs/helia
+- BTFS - https://github.com/bittorrent/go-btfs
 
 ### Blockchain
 
